@@ -1,4 +1,4 @@
 gatling_code_example
 ====================
 
-A simple example of Performance Test with Gatling.
+A simple code example of Performance Test with Gatling.
